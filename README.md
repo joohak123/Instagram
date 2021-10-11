@@ -25,5 +25,6 @@ Here's a walkthrough of implemented user stories:
 
 (https://i.imgur.com/psAh7Ix.gif)
 
+Features that were not on the 1st gif, logging in + app icon in home
 ![](https://i.imgur.com/vxeSlnB.gif)
 
