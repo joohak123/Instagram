@@ -32,7 +32,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         // --- end copy
 
-
         return true
     }
 
